@@ -1,4 +1,3 @@
-# n8n-contact-form-automation
 # n8n Contact Form Automation
 
 ## 📌 Project Overview
